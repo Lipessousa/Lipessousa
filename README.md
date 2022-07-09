@@ -21,7 +21,7 @@
 <br>
 
 <div style="display:inline_block">
-  <h4>Linguagens que estou estudando</h4>
+  <h3>Linguagens que estou estudando</h3>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
 </div>
@@ -29,7 +29,7 @@
 <br>
 
 <div style="display:inline_block">
-  <h4>Minhas redes sociais</h4>
+  <h3>Minhas redes sociais</h3>
   <a href="https://www.linkedin.com/in/felipe-sousa-8a7b2b241">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
