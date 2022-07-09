@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente faço técnico em Desnevolvimento de Sistemas
 
-<div>
+<div style="display:inline_block">
   <a href="https//:github.com/Lipessousa">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Lipessousa&show_icons=false&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipessousa&layout=compact&langs_count=16&theme=monokai"/>
@@ -26,10 +26,10 @@
 
 <div style="display:inline_block">
   <h3>Minhas redes sociais</h3>
-  <a href="https://www.linkedin.com/in/felipe-sousa-8a7b2b241">
+  <a href="https://www.linkedin.com/in/felipe-sousa-8a7b2b241" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  <a href="https://www.instagram.com/sousa_feelipe">
+  <a href="https://www.instagram.com/sousa_feelipe" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/>
   </a>
 </div>
