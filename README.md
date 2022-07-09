@@ -26,10 +26,10 @@
 
 <div style="display:inline_block">
   <h3>Minhas redes sociais</h3>
-  <a href="https://www.linkedin.com/in/felipe-sousa-8a7b2b241">
+  <a href="https://www.linkedin.com/in/felipe-sousa-8a7b2b241" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"/>
   </a>
-  <a href="https://www.instagram.com/sousa_feelipe">
+  <a href="https://www.instagram.com/sousa_feelipe" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"/>
   </a>
 </div>
