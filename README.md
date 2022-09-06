@@ -1,6 +1,6 @@
 ### Eai :)! Eu sou o Felipe Sousa
 
-- 🔭 Atualmente faço técnico em Desnevolvimento de Sistemas
+- 🔭 Cursando último semestre - Técnico Desnevolvimento de Sistemas
 
 <div style="display:inline_block">
   <a href="https//:github.com/Lipessousa">
