@@ -1,4 +1,4 @@
-### Eai :)! Eu sou o Felipe Sousa
+### Eai :) Eu sou o Felipe Sousa
 
 - 🔭 Técnico em Desenvolvimento de Sistemas - SENAI
 
