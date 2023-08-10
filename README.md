@@ -1,6 +1,7 @@
 ### Eai :) Eu sou o Felipe Sousa
 
-- 🔭 Técnico em Desenvolvimento de Sistemas - SENAI
+- Técnico em Desenvolvimento de Sistemas - SENAI
+- Cursando Sistemas de Informação - SENAC
 
 <div style="display:inline_block">
   <a href="https//:github.com/Lipessousa">
