@@ -5,7 +5,7 @@
 
 <div style="display:inline_block">
   <a href="https//:github.com/Lipessousa">
-<!--  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=Lipessousa&show_icons=false&theme=monokai&include_all_commits=false&count_private=true"/>-->
+ <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=Lipessousa&show_icons=false&theme=monokai&include_all_commits=false&count_private=true"/>
   <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipessousa&layout=compact&langs_count=16&theme=monokai"/>
 </div>
 
@@ -17,10 +17,26 @@
   <img align="center" alt="CSS"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+</div>
+
+<br>
+
+<div style="display:inline_block">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
+</div>
+
+<br>
+
+<div style="display:inline_block">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+</div>
+
+<br>
+
+<div style="display:inline_block">
+     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/> 
 </div>
 
 <!--<div style="display:inline_block">
