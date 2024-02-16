@@ -25,24 +25,22 @@
 <div style="display:inline_block">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
-</div>
-
-<br>
-
-<div style="display:inline_block">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-</div>
-
-<br>
-
-<div style="display:inline_block">
-     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/> 
-</div>
-
-<!--<div style="display:inline_block">
-  <h3>Tecnologias que estou estudando</h3>
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-</div> -->
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"/>
+</div>
+
+<br>
+
+<div style="display:inline_block">
+   
+</div>
+
+<br>
+
+<div style="display:inline_block">
+     
+</div>
 
 <div style="display:inline_block">
   <h3>Minhas redes sociais</h3>
