@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <h3> Técnico em Desenvolvimento de Sistemas - SENAI</h3>
-  <h3>Cursando Sistemas de Informação - SENAC</h3>
+  <h3> Técnico em Desenvolvimento de Sistemas - SENAI Suiço-Brasileira</h3>
+  <h3>Cursando Sistemas de Informação - SENAC Santo Amaro</h3>
 </div>
 
 <br>
