@@ -1,4 +1,6 @@
-<h2 align="center"> Eai :) Eu sou o Felipe Sousa</h2>
+<div  align="center">
+  <h2> Eai :) Eu sou o Felipe Sousa</h2>
+</div>
 
 <div align="center">
   <h3> Técnico em Desenvolvimento de Sistemas - SENAI</h3>
@@ -8,9 +10,8 @@
 <br>
 
 <div align="center">
-  <a href="https//:github.com/Lipessousa">
- <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=Lipessousa&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipessousa&layout=compact&langs_count=50&theme=monokai"/>
+<img height="150rem" src="https://github-readme-stats.vercel.app/api?username=Lipessousa&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+<img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipessousa&layout=compact&langs_count=50&theme=monokai"/>
 </div>
 
 <br>
